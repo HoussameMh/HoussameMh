@@ -5,7 +5,7 @@
   </picture>
 
   <h1>Houssame Mehrach</h1>
-  <p><em>1st year Engineering Student @ INPT Rabat â€” ASEDS</em></p>
+  <p><em>1st year Engineering Student @ INPT Rabat - ASEDS</em></p>
 </div>
 
 ---
@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>ðŸ›’ Nova Market</h3>
+      <h3>:shopping_cart: Nova Market</h3>
       <p>Full-stack e-commerce with React + Node + MongoDB</p>
       <a href="https://nova-market-web.vercel.app"><img src="https://img.shields.io/badge/LIVE-38BDF8?style=flat-square&logo=vercel&logoColor=white"></a>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
@@ -33,8 +33,8 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
     </td>
     <td width="50%">
-      <h3>ðŸ’° Nova Fund</h3>
-      <p>Crowdfunding platform â€” Node.js + Vanilla JS</p>
+      <h3>:moneybag: Nova Fund</h3>
+      <p>Crowdfunding platform - Node.js + Vanilla JS</p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
@@ -42,15 +42,15 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>ñ��¤– AI Agent</h3>
-      <p>Intelligent assistant â€” n8n + OpenAI + Gmail + Trello</p>
+      <h3>:robot: AI Agent</h3>
+      <p>Intelligent assistant - n8n + OpenAI + Gmail + Trello</p>
       <img src="https://img.shields.io/badge/n8n-EA4AAA?style=flat-square&logo=n8n&logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
     </td>
     <td width="50%">
-      <h3>âœˆï¸ Gestion AÃ©roport</h3>
-      <p>Desktop airport management â€” JavaFX</p>
+      <h3>:airplane: Gestion Aeroport</h3>
+      <p>Desktop airport management - JavaFX</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/JavaFX-024F8E?style=flat-square&logo=&logoColor=white">
     </td>
@@ -86,7 +86,6 @@
 
 **Tools**  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/JavaFX-024F8E?style=flat-square&logo=&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 
@@ -102,11 +101,11 @@
 
 ### Currently
 
-- ðŸŽ“ Studying at **INPT Rabat** â€” ASEDS Engineering
-- ðŸ”­ Building: AI-powered automation agents
-- ðŸŒ± Learning: LangChain, RAG pipelines, system design
-- ðŸ‘€ Open to: internship opportunities
-- âš¡ Fun fact: Ranked **237 / 3000** in CPGE nationally
+- :graduation_cap: Studying at **INPT Rabat** - ASEDS Engineering
+- :rocket: Building: AI-powered automation agents
+- :seedling: Learning: LangChain, RAG pipelines, system design
+- :eyes: Open to: internship opportunities
+- :zap: Fun fact: Ranked **237 / 3000** in CPGE nationally
 
 ---
 

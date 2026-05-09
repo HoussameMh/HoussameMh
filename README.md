@@ -11,11 +11,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoussameMh&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;icon_color=38BDF8&amp;text_color=94A3B8&amp;title_color=38BDF8&amp;count_private=true" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HoussameMh&amp;theme=nord_bright" height="160">
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoussameMh&amp;theme=transparent&amp;hide_border=true&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakLabel=38BDF8" height="160">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoussameMh&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=38BDF8&amp;text_color=94A3B8" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoussameMh&amp;theme=nord_bright" height="160">
 </div>
 
 ---
@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🛒 Nova Market</h3>
+      <h3><a href="https://github.com/HoussameMh/Ecommerce-Project">🛒 Nova Market</a></h3>
       <p>Full-stack e-commerce with React + Node + MongoDB</p>
       <a href="https://nova-market-web.vercel.app"><img src="https://img.shields.io/badge/LIVE-38BDF8?style=flat-square&amp;logo=vercel&amp;logoColor=white"></a>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB">
@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white">
     </td>
     <td width="50%">
-      <h3>💰 Nova Fund</h3>
+      <h3><a href="https://github.com/HoussameMh/CrowdFunding-Project">💰 Nova Fund</a></h3>
       <p>Crowdfunding platform - Node.js + Vanilla JS</p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black">
@@ -42,14 +42,14 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 AI Agent</h3>
+      <h3><a href="https://github.com/HoussameMh/HoussameMh">🤖 AI Agent</a></h3>
       <p>Intelligent assistant - n8n + OpenAI + Gmail + Trello</p>
       <img src="https://img.shields.io/badge/n8n-EA4AAA?style=flat-square&amp;logo=n8n&amp;logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white">
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white">
     </td>
     <td width="50%">
-      <h3>✈️ Gestion Aéroport</h3>
+      <h3><a href="https://github.com/HoussameMh/gestionaeroport-java">✈️ Gestion Aéroport</a></h3>
       <p>Desktop airport management - JavaFX</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white">
       <img src="https://img.shields.io/badge/JavaFX-024F8E?style=flat-square&amp;logo=&amp;logoColor=white">

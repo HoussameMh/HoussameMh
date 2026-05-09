@@ -5,17 +5,17 @@
   </picture>
 
   <h1>Houssame Mehrach</h1>
-  <p><em>1st year Engineering Student @ INPT Rabat - ASEDS</em></p>
+  <p><em>1st year Engineering Student @ INPT Rabat - Software Engineering</em></p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HoussameMh&amp;theme=nord_bright" height="160">
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoussameMh&amp;theme=transparent&amp;hide_border=true&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakLabel=38BDF8" height="160">
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoussameMh&amp;theme=nord_bright" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoussameMh&amp;theme=transparent&amp;hide_border=true&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakLabel=38BDF8">
+  <br>
+  <img src="https://img.shields.io/github/followers/HoussameMh?style=flat-square&amp;color=38BDF8&amp;label=Followers">
+  <img src="https://img.shields.io/github/stars/HoussameMh?style=flat-square&amp;color=38BDF8&amp;label=Stars">
+  <img src="https://img.shields.io/github/last-commit/HoussameMh/HoussameMh?style=flat-square&amp;color=38BDF8&amp;label=Latest%20Commit">
 </div>
 
 ---
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/HoussameMh/HoussameMh">🤖 AI Agent</a></h3>
+      <h3>🤖 AI Agent</h3>
       <p>Intelligent assistant - n8n + OpenAI + Gmail + Trello</p>
       <img src="https://img.shields.io/badge/n8n-EA4AAA?style=flat-square&amp;logo=n8n&amp;logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white">
@@ -101,9 +101,9 @@
 
 ### Currently
 
-- 🎓 Studying at **INPT Rabat** - ASEDS Engineering
+- 🎓 Studying at **INPT Rabat** — Software Engineering
 - 🔭 Building: AI-powered automation agents
-- 🌱 Learning: LangChain, RAG pipelines, system design
+- 🌱 Learning: Machine Learning, LangChain, RAG pipelines, system design, software architecture
 - 👀 Open to: internship opportunities
 - ⚡ Fun fact: Ranked **237 / 3000** in CPGE nationally
 

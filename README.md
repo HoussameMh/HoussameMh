@@ -105,7 +105,7 @@
 - 🔭 Building: AI-powered automation agents
 - 🌱 Learning: Machine Learning, LangChain, RAG pipelines, system design, software architecture
 - 👀 Open to: internship opportunities
-- ⚡ Fun fact: Ranked **237 / 3000** in CPGE nationally
+- ⚡ Fun fact: I told my AI agent to write this line — it did, and I didn't change a thing
 
 ---
 

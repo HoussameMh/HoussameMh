@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 AI Agent</h3>
+      <h3><a href="https://github.com/HoussameMh/Nova-OS-mobile">🤖 AI Agent</a></h3>
       <p>Intelligent assistant - n8n + OpenAI + Gmail + Trello</p>
       <img src="https://img.shields.io/badge/n8n-EA4AAA?style=flat-square&amp;logo=n8n&amp;logoColor=white">
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white">

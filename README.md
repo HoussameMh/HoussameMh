@@ -10,15 +10,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoussameMh&amp;theme=transparent&amp;hide_border=true&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakLabel=38BDF8">
-  <br>
-  <img src="https://img.shields.io/github/followers/HoussameMh?style=flat-square&amp;color=38BDF8&amp;label=Followers">
-  <img src="https://img.shields.io/github/stars/HoussameMh?style=flat-square&amp;color=38BDF8&amp;label=Stars">
-  <img src="https://img.shields.io/github/last-commit/HoussameMh/HoussameMh?style=flat-square&amp;color=38BDF8&amp;label=Latest%20Commit">
-</div>
 
----
 
 ### Projects
 
